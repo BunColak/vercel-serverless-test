@@ -1,0 +1,10 @@
+{
+  "name": "vercel-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bün Colak <bun.colak@motius.de>",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/node": "^1.8.0"
+  }
+}
